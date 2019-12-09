@@ -1,10 +1,3 @@
-# Aula 1
+# Aula 3
 
-* O que e PHP?
-* Requisitos
-* Script
-* Comentários
-* Variáveis
-* Comandos de Saída
-* Operadores: Atribuição, aritméticos, relacionais e lógicos
-* Constantes
+* Funções
