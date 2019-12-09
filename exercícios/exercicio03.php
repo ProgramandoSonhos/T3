@@ -7,10 +7,10 @@
 <?php 
 $salario = array(1000,4000,5000);
 $total=0;
-foreach($salario as $valor)
+foreach($salario as $valor){
   //$total = $total + $valor; 
   $total += $valor;
-
+}
 echo 'O valor total dos salario é: '.$total;
 ?> 
 
