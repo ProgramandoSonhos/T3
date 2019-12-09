@@ -9,11 +9,11 @@
 $nome = "Paulo";
 $idade = 33; 
 
-if($idade >= 18)
+if($idade >= 18){
 	echo "$nome é maior que 18 e tem $idade anos.";
-else 
+}else{ 
 	echo $nome.' não é maior que 18 e tem '. $idade.' anos.';
-
+}
 ?>
 
 </body>
