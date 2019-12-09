@@ -8,13 +8,13 @@
 
 $valor =0; 
 
-if($valor >0)
+if($valor >0){
 	echo 'Positivo';
-elseif($valor<0)
+}else if($valor<0){
 	echo 'negativo';
-else
+}else{
 	echo 'igual a zero';
-
+}
 ?>
 
 </body>
