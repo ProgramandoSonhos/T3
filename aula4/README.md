@@ -2,6 +2,3 @@
 
 * POST
 * Forms
-* Conexão
-* Select
-* Insert
